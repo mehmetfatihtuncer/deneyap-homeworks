@@ -1,1 +1,1 @@
-"#Branchler arasinda gezinerek ilgili haftaya ait ”devlerin cevaplarini g”rebilirsiniz" 
+"#Branchler arasinda gezinerek ilgili haftaya ait â€devlerin cevaplarini gorebilirsiniz" 
